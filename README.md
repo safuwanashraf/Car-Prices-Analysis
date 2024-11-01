@@ -1,4 +1,4 @@
-# Link to MY GOOGLE COLAB - 
+# Link to my GOOGLE COLAB - 
 https://colab.research.google.com/drive/16R5diH0_Qn7DGpXR2XS5bbFTSbDCfV_X?usp=sharing
 
 # Car Price Analysis
