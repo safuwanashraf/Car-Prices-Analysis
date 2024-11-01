@@ -34,6 +34,15 @@ The analysis includes the following steps:
 3. Hypothesis testing: comparing prices across different categories and brands
 4. Regression analysis: developing a predictive model to forecast car prices
 
+# Insights
+Distribution of Selling Prices: The histogram and density plot show the distribution of selling prices, indicating whether the prices follow a normal distribution or if there is any skewness and kurtosis.
+Correlations: The correlation heatmap highlights which features are strongly correlated with the selling price.
+Outliers: Removing outliers ensures that the analysis is not skewed by extreme values.
+Relationships: Scatter plots between selling price and other features (like odometer and condition) provide insights into how these features influence the selling price.
+Feature Engineering: Creating new features like car age and price to MMR ratio can uncover additional insights.
+Hypothesis Testing: T-tests and ANOVA help identify significant differences in prices across different categories or brands.
+Regression Analysis: Linear regression models help understand the predictive power of selected features on the selling price.
+
 ## Conclusion
 The car price analysis provides valuable insights into the factors that influence car prices. 
 The analysis shows that car age, condition, and price to MMR ratio are significant predictors of car prices. 
